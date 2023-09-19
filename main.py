@@ -46,7 +46,7 @@ def turn_right():
     turn_left()
     turn_left()
 
-while front_is_clear():
+while front_is_clear(): #debugging line
     move()
 turn_left()
     
